@@ -1,0 +1,15 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1458089842260" />
+          <option name="name" value="default" />
+          <option name="pathToConfigFileJava" value="$USER_HOME$/work/tc/LYFormatter.xml" />
+          <option name="selectedJavaProfile" value="LY Convention" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>

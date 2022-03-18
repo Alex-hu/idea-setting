@@ -1,0 +1,8 @@
+<application>
+  <component name="YapixRap2Settings">
+    <option name="account" value="" />
+    <option name="password" value="" />
+    <option name="url" value="http://rap2api.taobao.org" />
+    <option name="webUrl" value="http://rap2.taobao.org" />
+  </component>
+</application>

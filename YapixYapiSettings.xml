@@ -1,0 +1,8 @@
+<application>
+  <component name="YapixYapiSettings">
+    <option name="account" value="" />
+    <option name="loginWay" value="DEFAULT" />
+    <option name="password" value="" />
+    <option name="url" value="" />
+  </component>
+</application>

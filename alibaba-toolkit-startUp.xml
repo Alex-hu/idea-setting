@@ -1,0 +1,41 @@
+<application>
+  <component name="TipsStore">
+    <entry projectPath="$USER_HOME$/work/github/java/quarkus" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/github/java/quarkus-spring-api" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/github/java/quarkus/independent-projects/arc" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/github/java/spring/spring-native" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/02-order/tc-flight-int-ossmng" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/03-engine-sz/tc-flight-intl-ctripcore" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/03-engine-sz/tc-flight-intl-tcplauxiliary" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/03-engine-sz/tc-flight-intl-tcplintegration" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/03-engine-sz/tc-flight-intl-tcplmng" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/03-engine-sz/tc-flight-intl-tcplsearch" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/03-engine-sz/tc-flight-intl-tcpltrade" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/04-crm/TC.Flight.Int.Crm.Mng" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/04-crm/tc-flight-intl-crm-core" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/04-crm/tc-flight-intl-srm-ebk" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/06-bigdata/buddhamng" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/07-midware/tc-flight-cas" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/07-midware/tc-flight-sof" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/10-pgs/ebooking-pricing" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/10-pgs/pgs-model" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/11-other/dsf.flight.int.settlement" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/11-other/tc-flight-intl-common" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/14-risk/tc-flight-int-riskadmin" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/14-risk/tc-flight-intl-merchantrisk" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/15-b2b/b2b.tcpl.core" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/15-b2b/flight-pricing-core" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/16-train/livechat-robotapi" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/16-train/train-callback-core" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/16-train/train-comprehensive-api" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/16-train/train-gateway-core" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/16-train/train-ordermng" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/16-train/train-reversemng" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/16-train/train-ticket-core" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/16-train/train-tracer" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/16-train/train-trade-core" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/16-train/train-trade-strategy" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/tc/16-train/travel-shelf-core" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/workspace/java/spring-web-quickstart" startUpFlag="FIRST" />
+  </component>
+</application>

@@ -1,0 +1,13 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="修改变量名">
+      <action id="RenameElement" />
+      <action id="EditorLeft" />
+      <action id="EditorSelectWord" />
+      <action id="osmedile.intellij.stringmanip.PopupChoiceAction" />
+      <action id="osmedile.intellij.stringmanip.RepeatAction" />
+      <shortuct text="ENTER" />
+      <action id="NextTemplateVariable" />
+    </macro>
+  </component>
+</application>

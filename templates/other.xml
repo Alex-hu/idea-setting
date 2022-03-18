@@ -1,0 +1,7 @@
+<templateSet group="other">
+  <template name="lomb" value="@Getter&#10;@Setter&#10;@ToString(callSuper = true)" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

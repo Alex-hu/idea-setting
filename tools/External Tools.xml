@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="sidecar" description="command" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/work/tc/07-midware/dist/rubik-sidecar_darwin_amd64_develop_v0-6-0-rc8" />
+      <option name="PARAMETERS" value="-H unix:///Users/alex/work/temp.sock run -vvvv" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/work/tc/07-midware/dist" />
+    </exec>
+  </tool>
+</toolSet>

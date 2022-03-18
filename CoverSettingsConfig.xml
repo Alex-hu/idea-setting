@@ -1,0 +1,18 @@
+<application>
+  <component name="CoverSettingsConfig">
+    <option name="backend" value="TEST_GENERATOR" />
+    <option name="collectAnalytics" value="false" />
+    <option name="coverAllEnums" value="true" />
+    <option name="coverageStatusColorMap">
+      <map />
+    </option>
+    <option name="currentInliningOption" value="CUSTOM" />
+    <option name="indexDirectory" value="" />
+    <option name="keepNondeterministicTests" value="true" />
+    <option name="keepTestsWithViolations" value="true" />
+    <option name="keepThrowingTests" value="true" />
+    <option name="shouldGenerateBoilerplate" value="true" />
+    <option name="showComments" value="true" />
+    <option name="springIntegrationTestsEnabled" value="true" />
+  </component>
+</application>

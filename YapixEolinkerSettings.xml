@@ -1,0 +1,8 @@
+<application>
+  <component name="YapixEolinkerSettings">
+    <option name="account" value="" />
+    <option name="loginUrl" value="https://www.eolink.com" />
+    <option name="password" value="" />
+    <option name="url" value="https://riag.w.eolink.com" />
+  </component>
+</application>

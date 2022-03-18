@@ -1,0 +1,21 @@
+<keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta m" />
+  </action>
+  <action id="Hello World">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
+  <action id="Macro.修改变量名">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
+  <action id="Maven.Reimport">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="ServiceView.ShowServices" />
+  <action id="Show Actions Popup">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+  </action>
+  <action id="Show Project Path">
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
+</keymap>
