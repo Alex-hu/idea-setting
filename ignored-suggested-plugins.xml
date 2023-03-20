@@ -5,6 +5,7 @@
         <option value="com.haulmont.jpab" />
         <option value="aws.toolkit" />
         <option value="com.intellij.bigdatatools" />
+        <option value="com.poratu.idea.plugins.tomcat" />
       </list>
     </option>
   </component>
